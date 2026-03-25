@@ -1,6 +1,6 @@
 #  AWS Cloud Labs
 
-Welcome to my cloud engineering playground! This repository documents my practical journey through Amazon Web Services (AWS). Here, I store configurations, diagrams, and notes from my daily labs.
+Welcome to my AWS Lab Experience with Console. 
 
 ##  Objective
 To translate theoretical knowledge into practical skills by building secure, scalable, and cost-effective cloud solutions.
